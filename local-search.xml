@@ -5,12 +5,18 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="/2020/07/21/hello-world/"/>
-    <url>/2020/07/21/hello-world/</url>
+    <link href="/2020/07/20/hello-world/"/>
+    <url>/2020/07/20/hello-world/</url>
     
-    <content type="html"><![CDATA[<p>2020/07/21 江浙地区已经连绵多日大雨了。赋闲在家自己给自己放假，给大脑充充电。</p>]]></content>
+    <content type="html"><![CDATA[<h3 id="创站小记"><a href="#创站小记" class="headerlink" title="创站小记"></a>创站小记</h3><p>2020/07/21 江浙地区已经连绵多日大雨了。赋闲在家自己给自己放假，给大脑充充电。</p>]]></content>
     
     
+    
+    <tags>
+      
+      <tag>HelloWorld</tag>
+      
+    </tags>
     
   </entry>
   
